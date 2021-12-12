@@ -29,3 +29,5 @@ ex) 주소록 저장 형태의 경우, 이름 - 전화번호의 매칭을 이용
 * 해시 충돌 
 
 [참고 블로그](https://velog.io/@cyranocoding/Hash-Hashing-Hash-Table%ED%95%B4%EC%8B%9C-%ED%95%B4%EC%8B%B1-%ED%95%B4%EC%8B%9C%ED%85%8C%EC%9D%B4%EB%B8%94-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%9D%98-%EC%9D%B4%ED%95%B4-6ijyonph6o)
+
+[참고 블로그](https://overcome-the-limits.tistory.com/entry/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%ED%95%B4%EC%8B%9C%ED%85%8C%EC%9D%B4%EB%B8%94-with-JavaScript)
