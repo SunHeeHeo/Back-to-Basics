@@ -20,6 +20,8 @@ salting 과 키 스트레칭을 구현한 해시 함수 중 대표적인 함수
 
 ### 이런 취약점을 보완한 것이 바로 <U>bcrypt</U>의 솔팅(salting) 이라는 기법과 키 스트레칭(key stretching) 기법
 
+<img width="692" alt="스크린샷 2021-12-16 오전 1 47 59" src="https://user-images.githubusercontent.com/88166362/146228739-7b50f978-6c8b-4b9b-b934-fbd5cf5b26b8.png">
+
 
 * salting: 실제 정보 이외에 <U>추가적으로 무작위 데이터를 더해서</U> 해시 값을 계산 하는 방법. salt로 인해, 해시값이 달라지기 때문에, rainbow attack 와 같이 미리 해시 값을 계산해 공격하는 것을 무효화 시킨다.
 
