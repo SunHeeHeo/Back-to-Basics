@@ -31,9 +31,8 @@ salting 과 키 스트레칭을 구현한 해시 함수 중 대표적인 함수
 * Algorithm : 알고리즘 식별자   
 * Coast factor :  키 스트레칭 한 횟수 2^n으로 나타냄  
 * Salt : 128 비트 솔트, 22자 base 64로 인코딩    
-* hash : salting과 키 스트레치이 후 해시 값    
-
-* bcrypt 에서 검증 : 비밀번호가 동일한지 검증하기 위해, 입력된 비밀번호에 salting, 키 스트레칭을 해서 저장된 bcrypt 문자열과 비교한다.  
+* Hash : salting과 키 스트레치이 후 해시 값   
+* Bcrypt 에서 검증 : 비밀번호가 동일한지 검증하기 위해, 입력된 비밀번호에 salting, 키 스트레칭을 해서 저장된 bcrypt 문자열과 비교한다.  
 
 
 [참고](https://velog.io/@sangmin7648/Bcrypt%EB%9E%80)  
