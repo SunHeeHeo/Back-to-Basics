@@ -1,4 +1,4 @@
-# Dependency , Devdependency 차이점 
+# 📱 Dependency , Devdependency 차이점 
 
 ## dependencies 
 애플리케이션 동작과 연관된 라이브러리 설치.
