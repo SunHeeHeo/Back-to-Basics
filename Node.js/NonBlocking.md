@@ -27,5 +27,5 @@ the waiter(A thread) can only help one of them so, the other has to wait a littl
 Only effective for I/O - heavy workloads.
 
 Now I understood the reasons why Node js is appropriate to IO heavy workloads.
-The link that i left down below was very useful to understand the concept of Non Blocking.
+The link that i left down below was very useful to understand the concept of Non Blocking.  
 [Great Video](https://www.youtube.com/watch?v=wB9tIg209-8)
